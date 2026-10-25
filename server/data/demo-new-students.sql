@@ -1,0 +1,4 @@
+﻿INSERT INTO students VALUES
+(900000101, 'DEMO900000101', 'Rahul', 'Sharma', 'rahul.demo101@example.com', '9876500101', '2002-05-15', 'Male', 'Computer Science', 'Engineering', 2024, 'Demo College', 'Pune', 'Maharashtra', 'India', 'Private', 'Engineering', 'https://example.com', '101 Demo Road'),
+(900000102, 'DEMO900000102', 'Priya', 'Patil', 'priya.demo102@example.com', '9876500102', '2003-08-20', 'Female', 'Information Technology', 'Engineering', 2025, 'Demo College', 'Mumbai', 'Maharashtra', 'India', 'Private', 'Engineering', 'https://example.com', '102 Demo Road'),
+(900000103, 'DEMO900000103', 'Amit', 'Deshmukh', 'amit.demo103@example.com', '9876500103', '2001-11-10', 'Male', 'Mechanical Engineering', 'Engineering', 2023, 'Demo College', 'Nashik', 'Maharashtra', 'India', 'Private', 'Engineering', 'https://example.com', '103 Demo Road');

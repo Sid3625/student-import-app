@@ -1,0 +1,40 @@
+# Dependencies
+
+node_modules/
+server/node_modules/
+
+# Environment variables and secrets
+
+.env
+.env._
+!.env.example
+server/.env
+server/.env._
+!server/.env.example
+
+# Uploaded files and runtime data
+
+server/uploads/
+server/logs/
+\*.log
+
+# Large local assessment dataset
+
+server/data/students_20_lakh.sql
+
+# OS / editor
+
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Test / coverage output
+
+coverage/
+.nyc_output/
+
+# Temporary files
+
+_.tmp
+_.swp
