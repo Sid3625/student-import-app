@@ -2,6 +2,7 @@
 node_modules/
 server/node_modules/
 server/.env
+server/data/students_20_lakh.sql
 # Environment variables and secrets
 .env
 .env.*
